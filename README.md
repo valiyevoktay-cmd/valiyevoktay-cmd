@@ -21,7 +21,6 @@ I am a Data Engineer and Economics student originaly from Baku bridging the gap 
 
 ### 📈 Highlighted Projects
 * **[Baku Alternative CPI](https://github.com/valiyevoktay-cmd/baku-alternative-cpi):** An automated ETL pipeline and dashboard calculating real-time inflation dynamics using web scraping and econometric index weighting.
-* *(Space for your next Algo-Trading or Risk Scoring project)*
 
 ### 📫 Let's Connect
 <p align="left">
