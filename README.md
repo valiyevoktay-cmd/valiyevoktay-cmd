@@ -2,18 +2,12 @@
 
 **Junior Data Engineer | FinTech Enthusiast | Quantitative Economics**
 
-I am a Data Engineer and Economics student bridging the gap between macroeconomic theory and production-grade code. I specialize in building automated financial pipelines, alternative data trackers, and robust ML models to uncover market inefficiencies. 
+I am a Data Engineer and Economics student originaly from Baku bridging the gap between macroeconomic theory and production-grade code. I specialize in building automated financial pipelines, alternative data trackers, and robust ML models to uncover market inefficiencies. 
 
 
 ### 🎯 What I'm currently up to
 - 🛠 Working on data pipelines and ML models as a Junior Data Engineer at **Absheron Invest** and Technical Assistant at **Caspian AI Lab**.
 - 🎓 Preparing to start my BSc in International Economics at **Jönköping International Business School (JIBS)** (Autumn 2026).
-- 📊 Building the **Baku Alternative CPI Tracker**: an end-to-end automated pipeline tracking real-time inflation using the Laspeyres index methodology.
-
-### 🧠 My "Unfair Advantages"
-- **Mathematical Rigor:** Silver Medalist in Copernicus Math Olympiad & IMC Math Olympiad.
-- **Analytical Debating:** Creator of the "Logical Deconstruction" debate methodology.
-- **Storytelling & Context:** Author of several historical novels, including *"La Marseillaise for Wolves"*. I understand narrative, history, and how human behavior shapes markets.
 
 ### 💻 Tech Stack & Tools
 <p align="left">
