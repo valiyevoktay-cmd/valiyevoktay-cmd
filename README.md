@@ -8,7 +8,6 @@ I am a Data Engineer and Economics student originally from Baku, bridging the ga
 
 ### 🎯 What I'm currently up to
 - 🛠 **Engineering:** Working on real-time data pipelines as a Junior Data Engineer at **Absheron Invest** and Technical Assistant at **Caspian AI Lab**.
-- 🧪 **Research:** Developing **Caspian Alpha**, an HFT engine focusing on Order Flow Imbalance (OFI) and market microstructure.
 - 🎓 **Education:** Preparing to start my BSc in International Economics at **Jönköping International Business School (JIBS)**, Sweden (Autumn 2026).
 
 ---
