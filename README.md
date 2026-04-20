@@ -23,9 +23,9 @@ I am a Data Engineer and Economics student originally from Baku, bridging the ga
 
 #### 🌑 [Nordic Void](https://github.com/valiyevoktay-cmd/nordic_void_engine)
 **High-Frequency Econometric Research Infrastructure**
-* [cite_start]**The Tech:** Python (NumPy/Pandas), WebGL-accelerated visualization, Streamlit, Vectorized processing of Level-2 tick data[cite: 32, 224, 268, 285].
-* [cite_start]**The Quant:** Implements a calibrated **5.3-sigma anomaly detection protocol** ($Z > 5.3$) to quantify structural **Liquidity Vacuums** during Riksbank announcements[cite: 7, 47, 65].
-* [cite_start]**The Insight:** Segmented 12 years of tick data ($N=69$) into 4 distinct **Macroeconomic Regimes**, proving a non-linear link between inflation uncertainty and a **63.8% vacuum hit rate**[cite: 8, 24, 186, 189].
+* **The Tech:** Python (NumPy/Pandas), WebGL-accelerated visualization, Streamlit, Vectorized processing of Level-2 tick data.
+* **The Quant:** Implements a calibrated **5.3-sigma anomaly detection protocol** ($Z > 5.3$) to quantify structural **Liquidity Vacuums** during Riksbank announcements.
+* **The Insight:** Segmented 12 years of tick data ($N=69$) into 4 distinct **Macroeconomic Regimes**, proving a non-linear link between inflation uncertainty and a **63.8% vacuum hit rate**.
 
 #### 📊 [Baku Alternative CPI](https://github.com/valiyevoktay-cmd/baku-alternative-cpi)
 **Automated Macroeconomic Tracker**
