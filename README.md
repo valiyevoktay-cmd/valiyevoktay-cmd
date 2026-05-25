@@ -1,6 +1,6 @@
 # Hi there, I'm Oktay 👋
 
-**17-year-old Data Engineer | Quantitative Economics | FinTech Enthusiast**
+**Data Engineer | Quantitative Economics | FinTech Enthusiast**
 
 I am a Data Engineer and Economics student originally from Baku, bridging the gap between macroeconomic theory and production-grade code. I specialize in building high-frequency financial pipelines, alternative data trackers, and robust mathematical models to uncover market inefficiencies.
 
