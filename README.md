@@ -26,7 +26,7 @@ An analytical engine engineered to detect and quantify microstructural phenomena
 * **Zero-Flicker HFT Terminal:** Institutional-grade UI achieving autonomous 1Hz rendering via static DOM anchoring and WebGL-accelerated Plotly charts, completely eliminating visual tearing.
 * **Autonomous Risk Engine:** A protective Killswitch that halts virtual market-making operations when the CCI dictates extreme microstructural decay, preserving capital against informed traders.
 
-### Nordic Void
+### [Nordic Void](https://github.com/valiyevoktay-cmd/nordic_void_engine)
 > **Event-Driven Infrastructure for High-Frequency Microstructure Research**
 
 A specialized analytical engine designed for the millisecond-level quantification of liquidity vacuum events. The architecture executes vectorized processing of high-fidelity Top-of-Book tick data to isolate microstructural decay surrounding scheduled macroeconomic shocks.
