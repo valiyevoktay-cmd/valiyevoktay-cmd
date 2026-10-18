@@ -59,7 +59,6 @@ Build event-driven infrastructure to analyze high-frequency market mechanics —
 
 ## 🤝 Let's Connect
 
-- **LinkedIn:** [Oktay Valiyev](https://www.linkedin.com/in/oktay-valiyev-336bb5401/)
 - **Academic:** [SSRN Profile](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6771542)
 
 *All repositories are provided for research and academic purposes only. High-frequency algorithm simulation involves significant risk and complexity.*
