@@ -1,4 +1,4 @@
-# Oktay Valiyev
+# OV
 **Aspiring Quantitative Researcher & Data Engineer | Market Microstructure**
 
 Build event-driven infrastructure to analyze high-frequency market mechanics — vectorized data pipelines, Bayesian econometric models, and real-time order book engines. My work focuses on quantifying liquidity phase transitions, adverse selection dynamics, and macro-shock transmission in FX and crypto markets.
