@@ -3,7 +3,6 @@
 
 Build event-driven infrastructure to analyze high-frequency market mechanics — vectorized data pipelines, Bayesian econometric models, and real-time order book engines. My work focuses on quantifying liquidity phase transitions, adverse selection dynamics, and macro-shock transmission in FX and crypto markets.
 
-📄 **Working Paper:** [The Riksbank Liquidity Vacuum — SSRN 2026](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6771542)
 
 ---
 
