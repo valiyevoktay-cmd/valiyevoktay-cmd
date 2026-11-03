@@ -5,7 +5,7 @@ Build event-driven infrastructure to analyze high-frequency market mechanics —
 
 ---
 
-## 🔬 Featured Projects
+##  Featured Projects
 
 ### [Caspian Alpha](https://github.com/valiyevoktay-cmd/caspian-alpha-hft-microstructure-tracker) — Market Microstructure & OFI Engine
 > Event-driven research environment for real-time Level 2 order book analysis
